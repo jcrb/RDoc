@@ -1,0 +1,353 @@
+"Notes"	"Disease"	"Disease Code"	"State"	"State Code"	"Gender"	"Gender Code"	STD Cases	Population	Rate
+	"Chlamydia"	"274"	"Alabama"	"01"	"Female"	"F"	13988	2317373	603.62
+	"Chlamydia"	"274"	"Alabama"	"01"	"Male"	"M"	1579	2169135	72.79
+	"Chlamydia"	"274"	"Alaska"	"02"	"Female"	"F"	2576	310665	829.19
+	"Chlamydia"	"274"	"Alaska"	"02"	"Male"	"M"	1230	333121	369.24
+	"Chlamydia"	"274"	"Arizona"	"04"	"Female"	"F"	11618	2730597	425.48
+	"Chlamydia"	"274"	"Arizona"	"04"	"Male"	"M"	3303	2725856	121.17
+	"Chlamydia"	"274"	"Arkansas"	"05"	"Female"	"F"	5817	1385513	419.84
+	"Chlamydia"	"274"	"Arkansas"	"05"	"Male"	"M"	1486	1324566	112.19
+	"Chlamydia"	"274"	"California"	"06"	"Female"	"F"	81218	17599581	461.48
+	"Chlamydia"	"274"	"California"	"06"	"Male"	"M"	28400	17516452	162.13
+	"Chlamydia"	"274"	"Colorado"	"08"	"Female"	"F"	10422	2236391	466.02
+	"Chlamydia"	"274"	"Colorado"	"08"	"Male"	"M"	3604	2270151	158.76
+	"Chlamydia"	"274"	"Connecticut"	"09"	"Female"	"F"	7738	1781277	434.41
+	"Chlamydia"	"274"	"Connecticut"	"09"	"Male"	"M"	2070	1679226	123.27
+	"Chlamydia"	"274"	"Delaware"	"10"	"Female"	"F"	2034	415010	490.11
+	"Chlamydia"	"274"	"Delaware"	"10"	"Male"	"M"	615	392375	156.74
+	"Chlamydia"	"274"	"District of Columbia"	"11"	"Female"	"F"	2825	301250	937.76
+	"Chlamydia"	"274"	"District of Columbia"	"11"	"Male"	"M"	459	269648	170.22
+	"Chlamydia"	"274"	"Florida"	"12"	"Female"	"F"	33902	8541946	396.89
+	"Chlamydia"	"274"	"Florida"	"12"	"Male"	"M"	8156	8171203	99.81
+	"Chlamydia"	"274"	"Georgia"	"13"	"Female"	"F"	27494	4342334	633.16
+	"Chlamydia"	"274"	"Georgia"	"13"	"Male"	"M"	6363	4217976	150.85
+	"Chlamydia"	"274"	"Hawaii"	"15"	"Female"	"F"	3445	620800	554.93
+	"Chlamydia"	"274"	"Hawaii"	"15"	"Male"	"M"	1076	624098	172.41
+	"Chlamydia"	"274"	"Idaho"	"16"	"Female"	"F"	1862	669186	278.25
+	"Chlamydia"	"274"	"Idaho"	"16"	"Male"	"M"	641	671945	95.39
+	"Chlamydia"	"274"	"Illinois"	"17"	"Female"	"F"	34154	6423314	531.72
+	"Chlamydia"	"274"	"Illinois"	"17"	"Male"	"M"	13942	6177306	225.70
+	"Chlamydia"	"274"	"Indiana"	"18"	"Female"	"F"	13151	3133773	419.65
+	"Chlamydia"	"274"	"Indiana"	"18"	"Male"	"M"	3845	3025295	127.10
+	"Chlamydia"	"274"	"Iowa"	"19"	"Female"	"F"	4680	1494732	313.10
+	"Chlamydia"	"274"	"Iowa"	"19"	"Male"	"M"	1505	1442028	104.37
+	"Chlamydia"	"274"	"Kansas"	"20"	"Female"	"F"	5653	1372069	412.01
+	"Chlamydia"	"274"	"Kansas"	"20"	"Male"	"M"	1131	1343815	84.16
+	"Chlamydia"	"274"	"Kentucky"	"21"	"Female"	"F"	7043	2091323	336.77
+	"Chlamydia"	"274"	"Kentucky"	"21"	"Male"	"M"	1706	2001568	85.23
+	"Chlamydia"	"274"	"Louisiana"	"22"	"Female"	"F"	14758	2310412	638.76
+	"Chlamydia"	"274"	"Louisiana"	"22"	"Male"	"M"	3525	2172234	162.28
+	"Chlamydia"	"274"	"Maine"	"23"	"Female"	"F"	1337	664327	201.26
+	"Chlamydia"	"274"	"Maine"	"23"	"Male"	"M"	468	630139	74.27
+	"Chlamydia"	"274"	"Maryland"	"24"	"Female"	"F"	13851	2819097	491.33
+	"Chlamydia"	"274"	"Maryland"	"24"	"Male"	"M"	3029	2639040	114.78
+	"Chlamydia"	"274"	"Massachusetts"	"25"	"Female"	"F"	8177	3325426	245.89
+	"Chlamydia"	"274"	"Massachusetts"	"25"	"Male"	"M"	2724	3102377	87.80
+	"Chlamydia"	"274"	"Michigan"	"26"	"Female"	"F"	25129	5116223	491.16
+	"Chlamydia"	"274"	"Michigan"	"26"	"Male"	"M"	7143	4934223	144.76
+	"Chlamydia"	"274"	"Minnesota"	"27"	"Female"	"F"	7352	2532348	290.32
+	"Chlamydia"	"274"	"Minnesota"	"27"	"Male"	"M"	2755	2487372	110.76
+	"Chlamydia"	"274"	"Mississippi"	"28"	"Female"	"F"	10274	1482903	692.83
+	"Chlamydia"	"274"	"Mississippi"	"28"	"Male"	"M"	1526	1388879	109.87
+	"Chlamydia"	"274"	"Missouri"	"29"	"Female"	"F"	13253	2910749	455.31
+	"Chlamydia"	"274"	"Missouri"	"29"	"Male"	"M"	2928	2761830	106.02
+	"Chlamydia"	"274"	"Montana"	"30"	"Female"	"F"	1840	456316	403.23
+	"Chlamydia"	"274"	"Montana"	"30"	"Male"	"M"	625	453137	137.93
+	"Chlamydia"	"274"	"Nebraska"	"31"	"Female"	"F"	3609	875685	412.14
+	"Chlamydia"	"274"	"Nebraska"	"31"	"Male"	"M"	1128	853495	132.16
+	"Chlamydia"	"274"	"Nevada"	"32"	"Female"	"F"	4365	1066409	409.32
+	"Chlamydia"	"274"	"Nevada"	"32"	"Male"	"M"	1558	1107082	140.73
+	"Chlamydia"	"274"	"New Hampshire"	"33"	"Female"	"F"	1168	647435	180.40
+	"Chlamydia"	"274"	"New Hampshire"	"33"	"Male"	"M"	389	627621	61.98
+	"Chlamydia"	"274"	"New Jersey"	"34"	"Female"	"F"	12183	4416376	275.86
+	"Chlamydia"	"274"	"New Jersey"	"34"	"Male"	"M"	1962	4173927	47.01
+	"Chlamydia"	"274"	"New Mexico"	"35"	"Female"	"F"	5918	942900	627.64
+	"Chlamydia"	"274"	"New Mexico"	"35"	"Male"	"M"	1464	912159	160.50
+	"Chlamydia"	"274"	"New York"	"36"	"Female"	"F"	41202	9906237	415.92
+	"Chlamydia"	"274"	"New York"	"36"	"Male"	"M"	9885	9251295	106.85
+	"Chlamydia"	"274"	"North Carolina"	"37"	"Female"	"F"	20384	4238626	480.91
+	"Chlamydia"	"274"	"North Carolina"	"37"	"Male"	"M"	4340	4081520	106.33
+	"Chlamydia"	"274"	"North Dakota"	"38"	"Female"	"F"	826	317532	260.13
+	"Chlamydia"	"274"	"North Dakota"	"38"	"Male"	"M"	429	316578	135.51
+	"Chlamydia"	"274"	"Ohio"	"39"	"Female"	"F"	29558	5868083	503.71
+	"Chlamydia"	"274"	"Ohio"	"39"	"Male"	"M"	7926	5553185	142.73
+	"Chlamydia"	"274"	"Oklahoma"	"40"	"Female"	"F"	8764	1773841	494.07
+	"Chlamydia"	"274"	"Oklahoma"	"40"	"Male"	"M"	2040	1719873	118.61
+	"Chlamydia"	"274"	"Oregon"	"41"	"Female"	"F"	5033	1773660	283.76
+	"Chlamydia"	"274"	"Oregon"	"41"	"Male"	"M"	1976	1747855	113.05
+	"Chlamydia"	"274"	"Pennsylvania"	"42"	"Female"	"F"	23546	6368952	369.70
+	"Chlamydia"	"274"	"Pennsylvania"	"42"	"Male"	"M"	8244	5966139	138.18
+	"Chlamydia"	"274"	"Rhode Island"	"44"	"Female"	"F"	2057	554996	370.63
+	"Chlamydia"	"274"	"Rhode Island"	"44"	"Male"	"M"	775	514729	150.56
+	"Chlamydia"	"274"	"South Carolina"	"45"	"Female"	"F"	12468	2111898	590.37
+	"Chlamydia"	"274"	"South Carolina"	"45"	"Male"	"M"	1800	1995285	90.21
+	"Chlamydia"	"274"	"South Dakota"	"46"	"Female"	"F"	1608	383102	419.73
+	"Chlamydia"	"274"	"South Dakota"	"46"	"Male"	"M"	606	377961	160.33
+	"Chlamydia"	"274"	"Tennessee"	"47"	"Female"	"F"	12625	2971073	424.93
+	"Chlamydia"	"274"	"Tennessee"	"47"	"Male"	"M"	3417	2826216	120.90
+	"Chlamydia"	"274"	"Texas"	"48"	"Female"	"F"	57438	10953969	524.36
+	"Chlamydia"	"274"	"Texas"	"48"	"Male"	"M"	11964	10825924	110.51
+	"Chlamydia"	"274"	"Utah"	"49"	"Female"	"F"	2494	1154802	215.97
+	"Chlamydia"	"274"	"Utah"	"49"	"Male"	"M"	1044	1161454	89.89
+	"Chlamydia"	"274"	"Vermont"	"50"	"Female"	"F"	746	314348	237.32
+	"Chlamydia"	"274"	"Vermont"	"50"	"Male"	"M"	208	302244	68.82
+	"Chlamydia"	"274"	"Virginia"	"51"	"Female"	"F"	15102	3712793	406.76
+	"Chlamydia"	"274"	"Virginia"	"51"	"Male"	"M"	3416	3580749	95.40
+	"Chlamydia"	"274"	"Washington"	"53"	"Female"	"F"	11003	3045940	361.24
+	"Chlamydia"	"274"	"Washington"	"53"	"Male"	"M"	3931	3023056	130.03
+	"Chlamydia"	"274"	"West Virginia"	"54"	"Female"	"F"	2072	924870	224.03
+	"Chlamydia"	"274"	"West Virginia"	"54"	"Male"	"M"	386	877003	44.01
+	"Chlamydia"	"274"	"Wisconsin"	"55"	"Female"	"F"	12296	2751439	446.89
+	"Chlamydia"	"274"	"Wisconsin"	"55"	"Male"	"M"	4669	2689757	173.58
+	"Chlamydia"	"274"	"Wyoming"	"56"	"Female"	"F"	755	247825	304.65
+	"Chlamydia"	"274"	"Wyoming"	"56"	"Male"	"M"	189	250878	75.34
+	"Chlamydia"	"274"	"Puerto Rico"	"72"	"Female"	"F"	2665	Not Applicable	Not Applicable
+	"Chlamydia"	"274"	"Puerto Rico"	"72"	"Male"	"M"	334	Not Applicable	Not Applicable
+	"Gonorrhea"	"280"	"Alabama"	"01"	"Female"	"F"	4974	2317373	214.64
+	"Gonorrhea"	"280"	"Alabama"	"01"	"Male"	"M"	5131	2169135	236.55
+	"Gonorrhea"	"280"	"Alaska"	"02"	"Female"	"F"	353	310665	113.63
+	"Gonorrhea"	"280"	"Alaska"	"02"	"Male"	"M"	288	333121	86.46
+	"Gonorrhea"	"280"	"Arizona"	"04"	"Female"	"F"	1651	2730597	60.46
+	"Gonorrhea"	"280"	"Arizona"	"04"	"Male"	"M"	2128	2725856	78.07
+	"Gonorrhea"	"280"	"Arkansas"	"05"	"Female"	"F"	2388	1385513	172.36
+	"Gonorrhea"	"280"	"Arkansas"	"05"	"Male"	"M"	2194	1324566	165.64
+	"Gonorrhea"	"280"	"California"	"06"	"Female"	"F"	10857	17599581	61.69
+	"Gonorrhea"	"280"	"California"	"06"	"Male"	"M"	13586	17516452	77.56
+	"Gonorrhea"	"280"	"Colorado"	"08"	"Female"	"F"	1643	2236391	73.47
+	"Gonorrhea"	"280"	"Colorado"	"08"	"Male"	"M"	1868	2270151	82.29
+	"Gonorrhea"	"280"	"Connecticut"	"09"	"Female"	"F"	1910	1781277	107.23
+	"Gonorrhea"	"280"	"Connecticut"	"09"	"Male"	"M"	1331	1679226	79.26
+	"Gonorrhea"	"280"	"Delaware"	"10"	"Female"	"F"	858	415010	206.74
+	"Gonorrhea"	"280"	"Delaware"	"10"	"Male"	"M"	718	392375	182.99
+	"Gonorrhea"	"280"	"District of Columbia"	"11"	"Female"	"F"	1224	301250	406.31
+	"Gonorrhea"	"280"	"District of Columbia"	"11"	"Male"	"M"	1436	269648	532.55
+	"Gonorrhea"	"280"	"Florida"	"12"	"Female"	"F"	10373	8541946	121.44
+	"Gonorrhea"	"280"	"Florida"	"12"	"Male"	"M"	10975	8171203	134.31
+	"Gonorrhea"	"280"	"Georgia"	"13"	"Female"	"F"	9306	4342334	214.31
+	"Gonorrhea"	"280"	"Georgia"	"13"	"Male"	"M"	9013	4217976	213.68
+	"Gonorrhea"	"280"	"Hawaii"	"15"	"Female"	"F"	394	620800	63.47
+	"Gonorrhea"	"280"	"Hawaii"	"15"	"Male"	"M"	346	624098	55.44
+	"Gonorrhea"	"280"	"Idaho"	"16"	"Female"	"F"	49	669186	7.32
+	"Gonorrhea"	"280"	"Idaho"	"16"	"Male"	"M"	45	671945	6.70
+	"Gonorrhea"	"280"	"Illinois"	"17"	"Female"	"F"	12273	6423314	191.07
+	"Gonorrhea"	"280"	"Illinois"	"17"	"Male"	"M"	11750	6177306	190.21
+	"Gonorrhea"	"280"	"Indiana"	"18"	"Female"	"F"	3996	3133773	127.51
+	"Gonorrhea"	"280"	"Indiana"	"18"	"Male"	"M"	3372	3025295	111.46
+	"Gonorrhea"	"280"	"Iowa"	"19"	"Female"	"F"	821	1494732	54.93
+	"Gonorrhea"	"280"	"Iowa"	"19"	"Male"	"M"	658	1442028	45.63
+	"Gonorrhea"	"280"	"Kansas"	"20"	"Female"	"F"	1556	1372069	113.40
+	"Gonorrhea"	"280"	"Kansas"	"20"	"Male"	"M"	1188	1343815	88.40
+	"Gonorrhea"	"280"	"Kentucky"	"21"	"Female"	"F"	1936	2091323	92.57
+	"Gonorrhea"	"280"	"Kentucky"	"21"	"Male"	"M"	1834	2001568	91.63
+	"Gonorrhea"	"280"	"Louisiana"	"22"	"Female"	"F"	5861	2310412	253.68
+	"Gonorrhea"	"280"	"Louisiana"	"22"	"Male"	"M"	5466	2172234	251.63
+	"Gonorrhea"	"280"	"Maine"	"23"	"Female"	"F"	44	664327	6.62
+	"Gonorrhea"	"280"	"Maine"	"23"	"Male"	"M"	98	630139	15.55
+	"Gonorrhea"	"280"	"Maryland"	"24"	"Female"	"F"	4592	2819097	162.89
+	"Gonorrhea"	"280"	"Maryland"	"24"	"Male"	"M"	4756	2639040	180.22
+	"Gonorrhea"	"280"	"Massachusetts"	"25"	"Female"	"F"	1579	3325426	47.48
+	"Gonorrhea"	"280"	"Massachusetts"	"25"	"Male"	"M"	1663	3102377	53.60
+	"Gonorrhea"	"280"	"Michigan"	"26"	"Female"	"F"	7974	5116223	155.86
+	"Gonorrhea"	"280"	"Michigan"	"26"	"Male"	"M"	6796	4934223	137.73
+	"Gonorrhea"	"280"	"Minnesota"	"27"	"Female"	"F"	1688	2532348	66.66
+	"Gonorrhea"	"280"	"Minnesota"	"27"	"Male"	"M"	1361	2487372	54.72
+	"Gonorrhea"	"280"	"Mississippi"	"28"	"Female"	"F"	4201	1482903	283.30
+	"Gonorrhea"	"280"	"Mississippi"	"28"	"Male"	"M"	2674	1388879	192.53
+	"Gonorrhea"	"280"	"Missouri"	"29"	"Female"	"F"	4810	2910749	165.25
+	"Gonorrhea"	"280"	"Missouri"	"29"	"Male"	"M"	4142	2761830	149.97
+	"Gonorrhea"	"280"	"Montana"	"30"	"Female"	"F"	75	456316	16.44
+	"Gonorrhea"	"280"	"Montana"	"30"	"Male"	"M"	47	453137	10.37
+	"Gonorrhea"	"280"	"Nebraska"	"31"	"Female"	"F"	909	875685	103.80
+	"Gonorrhea"	"280"	"Nebraska"	"31"	"Male"	"M"	653	853495	76.51
+	"Gonorrhea"	"280"	"Nevada"	"32"	"Female"	"F"	965	1066409	90.49
+	"Gonorrhea"	"280"	"Nevada"	"32"	"Male"	"M"	1022	1107082	92.31
+	"Gonorrhea"	"280"	"New Hampshire"	"33"	"Female"	"F"	51	647435	7.88
+	"Gonorrhea"	"280"	"New Hampshire"	"33"	"Male"	"M"	69	627621	10.99
+	"Gonorrhea"	"280"	"New Jersey"	"34"	"Female"	"F"	3958	4416376	89.62
+	"Gonorrhea"	"280"	"New Jersey"	"34"	"Male"	"M"	3930	4173927	94.16
+	"Gonorrhea"	"280"	"New Mexico"	"35"	"Female"	"F"	740	942900	78.48
+	"Gonorrhea"	"280"	"New Mexico"	"35"	"Male"	"M"	716	912159	78.50
+	"Gonorrhea"	"280"	"New York"	"36"	"Female"	"F"	11141	9906237	112.46
+	"Gonorrhea"	"280"	"New York"	"36"	"Male"	"M"	10688	9251295	115.53
+	"Gonorrhea"	"280"	"North Carolina"	"37"	"Female"	"F"	7585	4238626	178.95
+	"Gonorrhea"	"280"	"North Carolina"	"37"	"Male"	"M"	7942	4081520	194.58
+	"Gonorrhea"	"280"	"North Dakota"	"38"	"Female"	"F"	40	317532	12.60
+	"Gonorrhea"	"280"	"North Dakota"	"38"	"Male"	"M"	32	316578	10.11
+	"Gonorrhea"	"280"	"Ohio"	"39"	"Female"	"F"	11944	5868083	203.54
+	"Gonorrhea"	"280"	"Ohio"	"39"	"Male"	"M"	9819	5553185	176.82
+	"Gonorrhea"	"280"	"Oklahoma"	"40"	"Female"	"F"	2566	1773841	144.66
+	"Gonorrhea"	"280"	"Oklahoma"	"40"	"Male"	"M"	2095	1719873	121.81
+	"Gonorrhea"	"280"	"Oregon"	"41"	"Female"	"F"	357	1773660	20.13
+	"Gonorrhea"	"280"	"Oregon"	"41"	"Male"	"M"	552	1747855	31.58
+	"Gonorrhea"	"280"	"Pennsylvania"	"42"	"Female"	"F"	7200	6368952	113.05
+	"Gonorrhea"	"280"	"Pennsylvania"	"42"	"Male"	"M"	6094	5966139	102.14
+	"Gonorrhea"	"280"	"Rhode Island"	"44"	"Female"	"F"	484	554996	87.21
+	"Gonorrhea"	"280"	"Rhode Island"	"44"	"Male"	"M"	416	514729	80.82
+	"Gonorrhea"	"280"	"South Carolina"	"45"	"Female"	"F"	4357	2111898	206.31
+	"Gonorrhea"	"280"	"South Carolina"	"45"	"Male"	"M"	4766	1995285	238.86
+	"Gonorrhea"	"280"	"South Dakota"	"46"	"Female"	"F"	148	383102	38.63
+	"Gonorrhea"	"280"	"South Dakota"	"46"	"Male"	"M"	115	377961	30.43
+	"Gonorrhea"	"280"	"Tennessee"	"47"	"Female"	"F"	4564	2971073	153.62
+	"Gonorrhea"	"280"	"Tennessee"	"47"	"Male"	"M"	4784	2826216	169.27
+	"Gonorrhea"	"280"	"Texas"	"48"	"Female"	"F"	14075	10953969	128.49
+	"Gonorrhea"	"280"	"Texas"	"48"	"Male"	"M"	12884	10825924	119.01
+	"Gonorrhea"	"280"	"Utah"	"49"	"Female"	"F"	150	1154802	12.99
+	"Gonorrhea"	"280"	"Utah"	"49"	"Male"	"M"	223	1161454	19.20
+	"Gonorrhea"	"280"	"Vermont"	"50"	"Female"	"F"	56	314348	17.81
+	"Gonorrhea"	"280"	"Vermont"	"50"	"Male"	"M"	42	302244	13.90
+	"Gonorrhea"	"280"	"Virginia"	"51"	"Female"	"F"	5445	3712793	146.66
+	"Gonorrhea"	"280"	"Virginia"	"51"	"Male"	"M"	5017	3580749	140.11
+	"Gonorrhea"	"280"	"Washington"	"53"	"Female"	"F"	1197	3045940	39.30
+	"Gonorrhea"	"280"	"Washington"	"53"	"Male"	"M"	1728	3023056	57.16
+	"Gonorrhea"	"280"	"West Virginia"	"54"	"Female"	"F"	567	924870	61.31
+	"Gonorrhea"	"280"	"West Virginia"	"54"	"Male"	"M"	406	877003	46.29
+	"Gonorrhea"	"280"	"Wisconsin"	"55"	"Female"	"F"	3717	2751439	135.09
+	"Gonorrhea"	"280"	"Wisconsin"	"55"	"Male"	"M"	2612	2689757	97.11
+	"Gonorrhea"	"280"	"Wyoming"	"56"	"Female"	"F"	38	247825	15.33
+	"Gonorrhea"	"280"	"Wyoming"	"56"	"Male"	"M"	27	250878	10.76
+	"Gonorrhea"	"280"	"Puerto Rico"	"72"	"Female"	"F"	230	Not Applicable	Not Applicable
+	"Gonorrhea"	"280"	"Puerto Rico"	"72"	"Male"	"M"	181	Not Applicable	Not Applicable
+	"Primary and Secondary Syphilis"	"310"	"Alabama"	"01"	"Female"	"F"	63	2317373	2.72
+	"Primary and Secondary Syphilis"	"310"	"Alabama"	"01"	"Male"	"M"	86	2169135	3.96
+	"Primary and Secondary Syphilis"	"310"	"Arizona"	"04"	"Female"	"F"	74	2730597	2.71
+	"Primary and Secondary Syphilis"	"310"	"Arizona"	"04"	"Male"	"M"	126	2725856	4.62
+	"Primary and Secondary Syphilis"	"310"	"Arkansas"	"05"	"Female"	"F"	18	1385513	1.30
+	"Primary and Secondary Syphilis"	"310"	"Arkansas"	"05"	"Male"	"M"	16	1324566	1.21
+	"Primary and Secondary Syphilis"	"310"	"California"	"06"	"Female"	"F"	39	17599581	0.22
+	"Primary and Secondary Syphilis"	"310"	"California"	"06"	"Male"	"M"	994	17516452	5.67
+	"Primary and Secondary Syphilis"	"310"	"Colorado"	"08"	"Male"	"M"	62	2270151	2.73
+	"Primary and Secondary Syphilis"	"310"	"Connecticut"	"09"	"Female"	"F"	3	1781277	0.17
+	"Primary and Secondary Syphilis"	"310"	"Connecticut"	"09"	"Male"	"M"	25	1679226	1.49
+	"Primary and Secondary Syphilis"	"310"	"Delaware"	"10"	"Female"	"F"	4	415010	0.96
+	"Primary and Secondary Syphilis"	"310"	"Delaware"	"10"	"Male"	"M"	7	392375	1.78
+	"Primary and Secondary Syphilis"	"310"	"District of Columbia"	"11"	"Female"	"F"	9	301250	2.99
+	"Primary and Secondary Syphilis"	"310"	"District of Columbia"	"11"	"Male"	"M"	49	269648	18.17
+	"Primary and Secondary Syphilis"	"310"	"Florida"	"12"	"Female"	"F"	108	8541946	1.26
+	"Primary and Secondary Syphilis"	"310"	"Florida"	"12"	"Male"	"M"	509	8171203	6.23
+	"Primary and Secondary Syphilis"	"310"	"Georgia"	"13"	"Female"	"F"	98	4342334	2.26
+	"Primary and Secondary Syphilis"	"310"	"Georgia"	"13"	"Male"	"M"	340	4217976	8.06
+	"Primary and Secondary Syphilis"	"310"	"Hawaii"	"15"	"Male"	"M"	9	624098	1.44
+	"Primary and Secondary Syphilis"	"310"	"Idaho"	"16"	"Female"	"F"	4	669186	0.60
+	"Primary and Secondary Syphilis"	"310"	"Idaho"	"16"	"Male"	"M"	4	671945	0.60
+	"Primary and Secondary Syphilis"	"310"	"Illinois"	"17"	"Female"	"F"	81	6423314	1.26
+	"Primary and Secondary Syphilis"	"310"	"Illinois"	"17"	"Male"	"M"	398	6177306	6.44
+	"Primary and Secondary Syphilis"	"310"	"Indiana"	"18"	"Female"	"F"	18	3133773	0.57
+	"Primary and Secondary Syphilis"	"310"	"Indiana"	"18"	"Male"	"M"	44	3025295	1.45
+	"Primary and Secondary Syphilis"	"310"	"Iowa"	"19"	"Female"	"F"	4	1494732	0.27
+	"Primary and Secondary Syphilis"	"310"	"Iowa"	"19"	"Male"	"M"	4	1442028	0.28
+	"Primary and Secondary Syphilis"	"310"	"Kansas"	"20"	"Female"	"F"	6	1372069	0.44
+	"Primary and Secondary Syphilis"	"310"	"Kansas"	"20"	"Male"	"M"	14	1343815	1.04
+	"Primary and Secondary Syphilis"	"310"	"Kentucky"	"21"	"Female"	"F"	43	2091323	2.06
+	"Primary and Secondary Syphilis"	"310"	"Kentucky"	"21"	"Male"	"M"	45	2001568	2.25
+	"Primary and Secondary Syphilis"	"310"	"Louisiana"	"22"	"Female"	"F"	76	2310412	3.29
+	"Primary and Secondary Syphilis"	"310"	"Louisiana"	"22"	"Male"	"M"	76	2172234	3.50
+	"Primary and Secondary Syphilis"	"310"	"Maryland"	"24"	"Female"	"F"	53	2819097	1.88
+	"Primary and Secondary Syphilis"	"310"	"Maryland"	"24"	"Male"	"M"	175	2639040	6.63
+	"Primary and Secondary Syphilis"	"310"	"Massachusetts"	"25"	"Female"	"F"	12	3325426	0.36
+	"Primary and Secondary Syphilis"	"310"	"Massachusetts"	"25"	"Male"	"M"	87	3102377	2.80
+	"Primary and Secondary Syphilis"	"310"	"Michigan"	"26"	"Female"	"F"	192	5116223	3.75
+	"Primary and Secondary Syphilis"	"310"	"Michigan"	"26"	"Male"	"M"	294	4934223	5.96
+	"Primary and Secondary Syphilis"	"310"	"Minnesota"	"27"	"Female"	"F"	4	2532348	0.16
+	"Primary and Secondary Syphilis"	"310"	"Minnesota"	"27"	"Male"	"M"	55	2487372	2.21
+	"Primary and Secondary Syphilis"	"310"	"Mississippi"	"28"	"Female"	"F"	31	1482903	2.09
+	"Primary and Secondary Syphilis"	"310"	"Mississippi"	"28"	"Male"	"M"	18	1388879	1.30
+	"Primary and Secondary Syphilis"	"310"	"Missouri"	"29"	"Female"	"F"	10	2910749	0.34
+	"Primary and Secondary Syphilis"	"310"	"Missouri"	"29"	"Male"	"M"	24	2761830	0.87
+	"Primary and Secondary Syphilis"	"310"	"Nebraska"	"31"	"Male"	"M"	4	853495	0.47
+	"Primary and Secondary Syphilis"	"310"	"Nevada"	"32"	"Male"	"M"	14	1107082	1.26
+	"Primary and Secondary Syphilis"	"310"	"New Hampshire"	"33"	"Male"	"M"	8	627621	1.27
+	"Primary and Secondary Syphilis"	"310"	"New Jersey"	"34"	"Female"	"F"	48	4416376	1.09
+	"Primary and Secondary Syphilis"	"310"	"New Jersey"	"34"	"Male"	"M"	121	4173927	2.90
+	"Primary and Secondary Syphilis"	"310"	"New Mexico"	"35"	"Female"	"F"	12	942900	1.27
+	"Primary and Secondary Syphilis"	"310"	"New Mexico"	"35"	"Male"	"M"	27	912159	2.96
+	"Primary and Secondary Syphilis"	"310"	"New York"	"36"	"Female"	"F"	26	9906237	0.26
+	"Primary and Secondary Syphilis"	"310"	"New York"	"36"	"Male"	"M"	452	9251295	4.89
+	"Primary and Secondary Syphilis"	"310"	"North Carolina"	"37"	"Female"	"F"	115	4238626	2.71
+	"Primary and Secondary Syphilis"	"310"	"North Carolina"	"37"	"Male"	"M"	164	4081520	4.02
+	"Primary and Secondary Syphilis"	"310"	"Ohio"	"39"	"Female"	"F"	27	5868083	0.46
+	"Primary and Secondary Syphilis"	"310"	"Ohio"	"39"	"Male"	"M"	132	5553185	2.38
+	"Primary and Secondary Syphilis"	"310"	"Oklahoma"	"40"	"Female"	"F"	20	1773841	1.13
+	"Primary and Secondary Syphilis"	"310"	"Oklahoma"	"40"	"Male"	"M"	52	1719873	3.02
+	"Primary and Secondary Syphilis"	"310"	"Oregon"	"41"	"Female"	"F"	8	1773660	0.45
+	"Primary and Secondary Syphilis"	"310"	"Oregon"	"41"	"Male"	"M"	20	1747855	1.14
+	"Primary and Secondary Syphilis"	"310"	"Pennsylvania"	"42"	"Female"	"F"	22	6368952	0.35
+	"Primary and Secondary Syphilis"	"310"	"Pennsylvania"	"42"	"Male"	"M"	83	5966139	1.39
+	"Primary and Secondary Syphilis"	"310"	"Rhode Island"	"44"	"Male"	"M"	11	514729	2.14
+	"Primary and Secondary Syphilis"	"310"	"South Carolina"	"45"	"Female"	"F"	58	2111898	2.75
+	"Primary and Secondary Syphilis"	"310"	"South Carolina"	"45"	"Male"	"M"	76	1995285	3.81
+	"Primary and Secondary Syphilis"	"310"	"Tennessee"	"47"	"Female"	"F"	82	2971073	2.76
+	"Primary and Secondary Syphilis"	"310"	"Tennessee"	"47"	"Male"	"M"	86	2826216	3.04
+	"Primary and Secondary Syphilis"	"310"	"Texas"	"48"	"Female"	"F"	192	10953969	1.75
+	"Primary and Secondary Syphilis"	"310"	"Texas"	"48"	"Male"	"M"	397	10825924	3.67
+	"Primary and Secondary Syphilis"	"310"	"Utah"	"49"	"Male"	"M"	7	1161454	0.60
+	"Primary and Secondary Syphilis"	"310"	"Virginia"	"51"	"Female"	"F"	17	3712793	0.46
+	"Primary and Secondary Syphilis"	"310"	"Virginia"	"51"	"Male"	"M"	54	3580749	1.51
+	"Primary and Secondary Syphilis"	"310"	"Washington"	"53"	"Male"	"M"	69	3023056	2.28
+	"Primary and Secondary Syphilis"	"310"	"Wisconsin"	"55"	"Female"	"F"	6	2751439	0.22
+	"Primary and Secondary Syphilis"	"310"	"Wisconsin"	"55"	"Male"	"M"	24	2689757	0.89
+	"Primary and Secondary Syphilis"	"310"	"Puerto Rico"	"72"	"Female"	"F"	123	Not Applicable	Not Applicable
+	"Primary and Secondary Syphilis"	"310"	"Puerto Rico"	"72"	"Male"	"M"	147	Not Applicable	Not Applicable
+"---"
+"Dataset: Selected STDs by Age, Race/Ethnicity, and Gender, 1996-2011"
+"Query Parameters:"
+"Title:"
+"Age: All"
+"Disease: Chlamydia, Gonorrhea, Primary and Secondary Syphilis"
+"Gender: Female, Male"
+"Race/Ethnicity: All"
+"State: Alabama (01), Alaska (02), Arizona (04), Arkansas (05), California (06), Colorado (08), Connecticut (09), Delaware (10),"
+"District of Columbia (11), Florida (12), Georgia (13), Hawaii (15), Idaho (16), Illinois (17), Indiana (18), Iowa (19), Kansas"
+"(20), Kentucky (21), Louisiana (22), Maine (23), Maryland (24), Massachusetts (25), Michigan (26), Minnesota (27), Mississippi"
+"(28), Missouri (29), Montana (30), Nebraska (31), Nevada (32), New Hampshire (33), New Jersey (34), New Mexico (35), New York"
+"(36), North Carolina (37), North Dakota (38), Ohio (39), Oklahoma (40), Oregon (41), Pennsylvania (42), Rhode Island (44), South"
+"Carolina (45), South Dakota (46), Tennessee (47), Texas (48), Utah (49), Vermont (50), Virginia (51), Washington (53), West"
+"Virginia (54), Wisconsin (55), Wyoming (56), Puerto Rico (72)"
+"Year: 2002"
+"Group By: Disease, State, Gender"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/std-std-race-age.html for more information."
+"---"
+"Query Date: Aug 12, 2014 1:06:15 PM"
+"---"
+"Suggested Citation: US Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for"
+"HIV, STD and TB Prevention (NCHSTP), Division of STD/HIV Prevention, Sexually Transmitted Disease Morbidity for selected STDs by"
+"age, race/ethnicity and gender 1996-2011, CDC WONDER Online Database. Accessed at http://wonder.cdc.gov/std-std-race-age.html on"
+"Aug 12, 2014 1:06:15 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero STD Cases are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed STD Cases are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. The phrase 'Not Reported' is shown when the specific disease was not reported for the given location and year. The phrase"
+"'Not Applicable' is shown when the denominator population is not on record, or when the rate cannot be calculated due to lack of"
+"disease incidence count or lack of denominator population."
+"2. Prior to 2003, some reporting entities reported summary cases through paper forms. Reporting entities differed in their"
+"ability to reconcile differences in total cases derived from summary hardcopy monthly, quarterly, and annual reports. Thus,"
+"there may be discrepancies when comparing the total number of cases reported through different data sources. This application"
+"includes data for age, race/ethnicity and gender reported on form CDC 73.2638 reports for years 1996-2002. More information:"
+"http://wonder.cdc.gov/wonder/help/std-std-race-age.html#Reporting Issues."
+"3. Chlamydia was not reported for all of New York state in years 1996-1999. More information:"
+"http://wonder.cdc.gov/wonder/help/std-std-race-age.html#Chlamydia."
+"4. Please see help file for specifics about reporting irregularities and population data. More information:"
+"http://wonder.cdc.gov/wonder/help/std-std-race-age.html#About Rates."
+"5. The denominator population used to compute the overall U.S. rate varies from year to year and from disease to disease, due to"
+"changes in reporting status for specific diseases and locations. More information:"
+"http://wonder.cdc.gov/wonder/help/std-std-race-age.html#Reporting Issues."
+"6. The denominator populations for the United States shown are the bridged-race postcensal July 1st population estimates for the"
+"years 2000-2009, and the bridged-race intracensal population estimates for years 1990-1999, as published by NCHS. The rates"
+"shown here may differ somewhat from previous publications, due to differences in the denominator population. More information:"
+"http://wonder.cdc.gov/wonder/help/std-std-race-age.html#Population."
+"7. Impact of reported cases with missing demographic data on STD rates: when reviewing STD rates by demographic subgroup, e.g.,"
+"by age group, gender, or race/ethnicity, note the number and percentage of reported STD cases that have missing data for the"
+"subgroup of interest. Rates by age group, gender, or race/ethnicity are calculated using only cases with known information in"
+"the numerator divided by the comparable U.S. Census population by year and subgroup. When information is unknown, the cases do"
+"not contribute to the numerator and therefore subgroup-specific rates are underestimates of the actual subgroup rate."
+"8. Counts and rates shown for the ""All"" age groups category represent all ages and persons of unknown age. More information:"
+"http://wonder.cdc.gov/wonder/help/std-std-race-age.html#About Rates."

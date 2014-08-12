@@ -1,0 +1,64 @@
+---
+title: "Graphiques & Santé publique"
+author: "JcB"
+date: "12/08/2014"
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
+    number_sections: yes
+    toc: yes
+---
+
+source: [Michael C. Samuel](http://www.medepi.net/docs/ph251d_2013fall_R-Visual-Display-Samuel.pdf)
+
+Data
+----
+
+Les fichiers sources ne sont pas transmis ? Tentative de reconstruction.
+
+__usSTD__ sexually transmitted disease; Les données sont retrouvées sur la base de données du [CDC](http://wonder.cdc.gov/controller/datarequest/D58;jsessionid=12B2E38951DD661AC3C160CC1A3CF46C). On urilise comme critères de sélection:
+- Group by _disease_
+- AND BY _state_
+- AND BY _gender_
+- year _2002_
+- disease _clamidia_, _gonorhée_, _syphilis_
+Le tout est exporté dans le fichier __STD2002.csv__. Il faut encore mettre en forme les données pour qu'elles soient compatibles avec le format attendu: sy, sym, syf, ct, ctm, ctf, gc, gcm, gcf.
+
+Area chart
+----------
+
+Remplissage de l'aire dessinée par deux courbes.
+
+```{r area}
+number <- 1000
+a <- sort(rnorm(number))
+b <- a^2
+xx <- c(1:number, number:1)
+yy <- c(a, rev(b))
+plot(xx, yy, type="l")
+polygon(xx, yy, col=2)
+```
+
+Table 2 x 2 (intox. alimentaire)
+--------------------------------
+
+```{r intox}
+outbreak <- matrix(c(200, 40, 5, 23), byrow = TRUE, nrow = 2, dimnames = list(c("A mangé", "N'a pas mangé"), c("Malade", "Pas malade")))
+View(outbreak)
+chisq.test(outbreak, correct = FALSE)
+library(Epi)
+twoby2(outbreak)
+mosaicplot(outbreak, col="blue", xlab="Malade", ylab="Exposés")
+assocplot(outbreak)
+fourfoldplot(outbreak)
+
+```
+
+Graphique en 3 dimensions
+--------------------------
+
+```{r 3d}
+
+```
+
