@@ -1,0 +1,32 @@
+---
+title: "Notes de programmation en R"
+author: "JcB"
+date: "18/10/2014"
+output: html_document
+---
+
+file.path(), list.files()
+============================
+
+- file.path: Construit une chaine pour accéder à un fichier, indépendamment de la plateforme:
+- list.files: construit un vecteur avec le nom des fichiers contenus dans un dossier. Autorise la récursivité.
+- list.dirs: construit un vecteur des noms de dossier et de fichiers contenus dans un dossier
+
+```{}
+files = list.files("~")
+
+> head(files)
+[1] "AdbeRdr9.4.2-1_i486linux_fra.bin"   "Audiobooks"                         "backup-production.sql"             
+[4] "Capture du 2014-03-19 17:35:33.png" "demo2.html"                         "Desktop"  
+
+file.path("dossier","fichier")
+[1] "dossier/fichier"
+
+d <- list.dirs("~", recursive=FALSE)
+head(d)
+
+[1] "/home/jcb/.adobe"            "/home/jcb/Audiobooks"        "/home/jcb/.bluefish"         "/home/jcb/.cache"           
+ [5] "/home/jcb/.compiz"           "/home/jcb/.config"           "/home/jcb/.dbus"             "/home/jcb/Desktop"          
+ [9] "/home/jcb/Documents"         "/home/jcb/.emacs.d"          "/home/jcb/.filezilla"        "/home/jcb/.freemind"
+```
+
