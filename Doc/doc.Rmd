@@ -1,0 +1,83 @@
+---
+title: "Documentation R"
+author: "jcb"
+date: "4 août 2015"
+output:
+  html_document:
+    number_sections: yes
+    toc: yes
+---
+
+La famille APPLY
+================
+
+La famille _apply_ (apply, sapply, lapply, mapply, rapply, tapply, vapply) réalise efficacement des itérations. Les plus utilisées sont:
+
+1. apply
+On souhaitte appliquer (apply) une fonction à toutes les lignes (index 1) ou colonnes (index 2) d'une matrice.
+2. lapply
+On souhaite appliquer une fonction à chaque élément d'une liste et obtenir le résultat sous forme de liste.
+3. sapply
+On souhaite appliquer une fonction à chaque élément d'une liste et obtenir le résultat sous forme d'un vecteur.
+
+ref: http://blog.datacamp.com/tutorial-on-loops-in-r/?utm_source=newsletter_datacamp&utm_medium=newsletter&utm_campaign=newsletter
+
+Importer des données dans R
+===========================
+
+Sources
+-------
+
+- lire/écrire des fichiers Excel: http://blog.datacamp.com/r-tutorial-read-excel-into-r/
+- importer/exporter: http://blog.datacamp.com/r-data-import-tutorial/
+
+Précautions
+-----------
+
+- Si vous travaillez avec des feuilles de calcul, la première ligne est habituellement réservé à l'en-tête, tandis que la première colonne est utilisée pour identifier l'unité d'échantillonnage;
+- Évitez les noms, les valeurs ou des champs avec des espaces vierges, sinon chaque mot sera interprété comme une variable distincte, qui entraîne des erreurs qui sont liées au nombre d'éléments par ligne dans votre ensemble de données;
+- Si vous souhaitez concaténer mots, l'insertion d'un. entre les deux pour des mots à la place d'un espace;
+- Les noms courts sont préférées aux noms plus longs;
+- Essayez d'éviter d'utiliser des noms qui contiennent des symboles tels que, $,%, ^, &, *, (,), -, #, ?,,, <,>, /, |, \, [,], {, et};
+- Supprimez tous les commentaires que vous avez faits dans votre fichier Excel pour éviter des colonnes supplémentaires ou de NA être ajoutés à votre dossier; et
+- Assurez-vous que toutes les valeurs manquantes dans votre ensemble de données sont indiqués avec NA.
+- nettoyez l'espace de travail
+```{}
+rm(list=ls())
+```
+
+Importer des fichier TXT
+------------------------
+```{}
+df <- read.table("<FileName>.txt", header = FALSE)
+```
+
+Graphisme
+=========
+
+Dessiner une control chart
+--------------------------
+https://chemicalstatistician.wordpress.com/2015/08/02/producing-a-control-chart-in-r-an-application-in-analytical-chemistry/
+
+utilisation fr axis(), abline() multiples, yaxt pour supprimer un axe standard
+
+Afficher une image PNG dans un graphe
+-------------------------------------
+source: http://stackoverflow.com/questions/4975681/r-creating-graphs-where-the-nodes-are-images
+```{r}
+library(png)
+img <- readPNG(system.file("img", "Rlogo.png", package="png"))
+# une zone graphique
+plot(c(100, 250), c(300, 450), type = "n", xlab = "", ylab = "")
+
+rasterImage(img, 150, 300, 200, 350, interpolate = TRUE)
+rasterImage(img, 100, 400, 110, 410, angle = 90, interpolate = TRUE)
+
+file <- "rat.png"
+rat <- readPNG(file)
+rasterImage(rat, 100, 400, 134, 428, interpolate = TRUE)
+
+```
+
+
+
