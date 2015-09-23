@@ -63,7 +63,9 @@ utilisation fr axis(), abline() multiples, yaxt pour supprimer un axe standard
 
 Afficher une image PNG dans un graphe
 -------------------------------------
-source: http://stackoverflow.com/questions/4975681/r-creating-graphs-where-the-nodes-are-images
+
+- source: http://stackoverflow.com/questions/4975681/r-creating-graphs-where-the-nodes-are-images
+- source: https://ryouready.wordpress.com/2014/09/12/using-colorized-png-pictograms-in-r-base-plots/
 ```{r}
 library(png)
 img <- readPNG(system.file("img", "Rlogo.png", package="png"))
